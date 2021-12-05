@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60081009.chunk.css",
+    "main.js": "/static/js/main.6a47d9b3.chunk.js",
+    "main.js.map": "/static/js/main.6a47d9b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48ef9b44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48ef9b44.js.map",
+    "static/js/2.70e920b3.chunk.js": "/static/js/2.70e920b3.chunk.js",
+    "static/js/2.70e920b3.chunk.js.map": "/static/js/2.70e920b3.chunk.js.map",
+    "static/js/3.47aed7dd.chunk.js": "/static/js/3.47aed7dd.chunk.js",
+    "static/js/3.47aed7dd.chunk.js.map": "/static/js/3.47aed7dd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.60081009.chunk.css.map": "/static/css/main.60081009.chunk.css.map",
+    "static/js/2.70e920b3.chunk.js.LICENSE.txt": "/static/js/2.70e920b3.chunk.js.LICENSE.txt",
+    "static/media/chevron-right-round.934b5605.svg": "/static/media/chevron-right-round.934b5605.svg",
+    "static/media/desktop-feature-1.png": "/static/media/desktop-feature-1.1b43db6e.png",
+    "static/media/desktop-feature-2.png": "/static/media/desktop-feature-2.e2721523.png",
+    "static/media/desktop-feature-3.png": "/static/media/desktop-feature-3.b179aab5.png",
+    "static/media/desktop-feature-4.png": "/static/media/desktop-feature-4.74f3e85c.png",
+    "static/media/desktop.de263e16.png": "/static/media/desktop.de263e16.png",
+    "static/media/download.e7176113.svg": "/static/media/download.e7176113.svg",
+    "static/media/logo-hc.a3bcec73.png": "/static/media/logo-hc.a3bcec73.png",
+    "static/media/main.fdf412b0.png": "/static/media/main.fdf412b0.png",
+    "static/media/Contact.scss": "/static/media/medical-consult.e2a37949.png",
+    "static/media/mobile-feature-1-1.png": "/static/media/mobile-feature-1-1.467f1992.png",
+    "static/media/mobile-feature-1-2.png": "/static/media/mobile-feature-1-2.96811d88.png",
+    "static/media/mobile-feature-2-1.png": "/static/media/mobile-feature-2-1.ed51a3b2.png",
+    "static/media/mobile-feature-2-2.png": "/static/media/mobile-feature-2-2.a4b4bf6b.png",
+    "static/media/mobile-feature-3-1.png": "/static/media/mobile-feature-3-1.e936a6fe.png",
+    "static/media/mobile-feature-3-2.png": "/static/media/mobile-feature-3-2.a3cc4f88.png",
+    "static/media/mobile-feature-preparing.png": "/static/media/mobile-feature-preparing.c5809659.png",
+    "static/media/App.scss": "/static/media/roboto-v27-latin-ext_latin-regular.bf67d9a0.eot",
+    "static/media/Product.scss": "/static/media/usage-mobile_optimized.f161bb14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ef9b44.js",
+    "static/js/2.70e920b3.chunk.js",
+    "static/css/main.60081009.chunk.css",
+    "static/js/main.6a47d9b3.chunk.js"
+  ]
+}
