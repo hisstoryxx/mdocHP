@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://m-doc.io/sitemap.xml
+Sitemap: https://m-doc.io/sitemap.xml
